@@ -1,0 +1,17 @@
+# Ignorar carpetas de entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema o de configuración del IDE
+.vscode/
+.idea/
